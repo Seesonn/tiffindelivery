@@ -403,7 +403,7 @@ export default function TiffinDelivery() {
               <h4 className="text-xl font-semibold mb-4 text-purple-800">Get in Touch</h4>
               <p className="mb-2"><strong>Address:</strong> Biratnagar, Trafic Chock</p>
               <p className="mb-2"><strong>Phone:</strong> +977 9812345678</p>
-              <p className="mb-2"><strong>Email:</strong> support@tastytiffin.com</p>
+              <p className="mb-2"><strong>Email:</strong> testytiffin@gmail.com</p>
             </div>
             <form className="md:w-1/2 bg-white rounded-xl shadow-lg p-8">
               <h4 className="text-xl font-semibold mb-4 text-purple-800">Send us a Message</h4>
