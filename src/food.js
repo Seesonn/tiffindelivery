@@ -461,7 +461,7 @@ export default function TiffinDelivery() {
               <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
               <p className="mb-2">Biratnagar, Trafic Chock</p>
               <p className="mb-2">Phone: +977 9812345678</p>
-              <p>Email: support@tastytiffin.com</p>
+              <p>Email: tastytiffin@gmail.com</p>
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-purple-600 text-center">
